@@ -2,8 +2,8 @@
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>55.0</apiVersion>
     <assignments>
-        <name>Add_selected_user</name>
-        <label>Add selected user</label>
+        <name>Add_selected_user_to_this_flow</name>
+        <label>Add_selected_user_to_this_flow</label>
         <locationX>264</locationX>
         <locationY>758</locationY>
         <assignmentItems>
