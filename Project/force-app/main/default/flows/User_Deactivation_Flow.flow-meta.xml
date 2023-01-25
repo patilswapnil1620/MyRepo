@@ -3,7 +3,7 @@
     <apiVersion>55.0</apiVersion>
     <assignments>
         <name>Add_selected_user</name>
-        <label>Add selected user/label>
+        <label>Add selected user</label>
         <locationX>264</locationX>
         <locationY>758</locationY>
         <assignmentItems>
